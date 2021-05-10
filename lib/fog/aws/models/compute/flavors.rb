@@ -3741,7 +3741,7 @@ module Fog
           :name                    => 'C6gd Two Extra Large',
           :bits                    => 64,
           :cores                   => 8,
-          :disk                    => 1
+          :disk                    => 1,
           :ram                     => 17179869184,
           :ebs_optimized_available => true,
           :instance_store_volumes  => 474
@@ -3761,7 +3761,7 @@ module Fog
           :name                    => 'C6gd Eight Extra Large',
           :bits                    => 64,
           :cores                   => 32,
-          :disk                    => 1900
+          :disk                    => 1900,
           :ram                     => 68719476736,
           :ebs_optimized_available => true,
           :instance_store_volumes  => 1
