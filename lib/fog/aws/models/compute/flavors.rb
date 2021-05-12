@@ -2932,7 +2932,7 @@ module Fog
           :bits                    => 64,
           :cores                   => 64,
           :disk                    => 2400,
-          :ram                     => 274877906944,
+          :ram                     => 262144,
           :ebs_optimized_available => true,
           :instance_store_volumes  => 1
         },
@@ -2942,7 +2942,7 @@ module Fog
           :bits                    => 64,
           :cores                   => 16,
           :disk                    => 600,
-          :ram                     => 68719476736,
+          :ram                     => 65536,
           :ebs_optimized_available => true,
           :instance_store_volumes  => 1
         },
@@ -2952,7 +2952,7 @@ module Fog
           :bits                    => 64,
           :cores                   => 32,
           :disk                    => 1200,
-          :ram                     => 137438953472,
+          :ram                     => 131072,
           :ebs_optimized_available => true,
           :instance_store_volumes  => 1
         },
@@ -2962,7 +2962,7 @@ module Fog
           :bits                    => 64,
           :cores                   => 96,
           :disk                    => 900,
-          :ram                     => 412316860416,
+          :ram                     => 393216,
           :ebs_optimized_available => true,
           :instance_store_volumes  => 2
         },
@@ -2972,7 +2972,7 @@ module Fog
           :bits                    => 64,
           :cores                   => 64,
           :disk                    => 600,
-          :ram                     => 274877906944,
+          :ram                     => 262144,
           :ebs_optimized_available => true,
           :instance_store_volumes  => 4
         },
@@ -2982,7 +2982,7 @@ module Fog
           :bits                    => 64,
           :cores                   => 32,
           :disk                    => 600,
-          :ram                     => 137438953472,
+          :ram                     => 131072,
           :ebs_optimized_available => true,
           :instance_store_volumes  => 2
         },
@@ -2992,7 +2992,7 @@ module Fog
           :bits                    => 64,
           :cores                   => 48,
           :disk                    => 0,
-          :ram                     => 206158430208,
+          :ram                     => 196608,
           :ebs_optimized_available => true,
           :instance_store_volumes  => 0
         },
@@ -3002,7 +3002,7 @@ module Fog
           :bits                    => 64,
           :cores                   => 8,
           :disk                    => 0,
-          :ram                     => 34359738368,
+          :ram                     => 32768,
           :ebs_optimized_available => true,
           :instance_store_volumes  => 0
         },
@@ -3012,7 +3012,7 @@ module Fog
           :bits                    => 64,
           :cores                   => 12,
           :disk                    => 0,
-          :ram                     => 51539607552,
+          :ram                     => 49152,
           :ebs_optimized_available => true,
           :instance_store_volumes  => 0
         },
@@ -3022,7 +3022,7 @@ module Fog
           :bits                    => 64,
           :cores                   => 24,
           :disk                    => 0,
-          :ram                     => 103079215104,
+          :ram                     => 98304,
           :ebs_optimized_available => true,
           :instance_store_volumes  => 0
         },
@@ -3032,7 +3032,7 @@ module Fog
           :bits                    => 64,
           :cores                   => 2,
           :disk                    => 0,
-          :ram                     => 8589934592,
+          :ram                     => 8192,
           :ebs_optimized_available => true,
           :instance_store_volumes  => 0
         },
@@ -3042,7 +3042,7 @@ module Fog
           :bits                    => 64,
           :cores                   => 48,
           :disk                    => 0,
-          :ram                     => 206158430208,
+          :ram                     => 196608,
           :ebs_optimized_available => true,
           :instance_store_volumes  => 0
         },
@@ -3052,7 +3052,7 @@ module Fog
           :bits                    => 64,
           :cores                   => 4,
           :disk                    => 0,
-          :ram                     => 17179869184,
+          :ram                     => 16384,
           :ebs_optimized_available => true,
           :instance_store_volumes  => 0
         },
@@ -3062,7 +3062,7 @@ module Fog
           :bits                    => 64,
           :cores                   => 64,
           :disk                    => 1900,
-          :ram                     => 206158430208,
+          :ram                     => 196608,
           :ebs_optimized_available => true,
           :instance_store_volumes  => 2
         },
@@ -3072,7 +3072,7 @@ module Fog
           :bits                    => 64,
           :cores                   => 48,
           :disk                    => 1425,
-          :ram                     => 206158430208,
+          :ram                     => 196608,
           :ebs_optimized_available => true,
           :instance_store_volumes  => 2
         },
@@ -3082,7 +3082,7 @@ module Fog
           :bits                    => 64,
           :cores                   => 64,
           :disk                    => 1900,
-          :ram                     => 274877906944,
+          :ram                     => 262144,
           :ebs_optimized_available => true,
           :instance_store_volumes  => 2
         },
@@ -3092,7 +3092,7 @@ module Fog
           :bits                    => 64,
           :cores                   => 8,
           :disk                    => 474,
-          :ram                     => 34359738368,
+          :ram                     => 32768,
           :ebs_optimized_available => true,
           :instance_store_volumes  => 1
         },
@@ -3102,7 +3102,7 @@ module Fog
           :bits                    => 64,
           :cores                   => 16,
           :disk                    => 950,
-          :ram                     => 68719476736,
+          :ram                     => 65536,
           :ebs_optimized_available => true,
           :instance_store_volumes  => 1
         },
@@ -3112,7 +3112,7 @@ module Fog
           :bits                    => 64,
           :cores                   => 32,
           :disk                    => 1900,
-          :ram                     => 137438953472,
+          :ram                     => 131072,
           :ebs_optimized_available => true,
           :instance_store_volumes  => 1
         },
@@ -3122,7 +3122,7 @@ module Fog
           :bits                    => 64,
           :cores                   => 2,
           :disk                    => 118,
-          :ram                     => 8589934592,
+          :ram                     => 8192,
           :ebs_optimized_available => true,
           :instance_store_volumes  => 1
         },
@@ -3132,7 +3132,7 @@ module Fog
           :bits                    => 64,
           :cores                   => 1,
           :disk                    => 59,
-          :ram                     => 4294967296,
+          :ram                     => 4096,
           :ebs_optimized_available => true,
           :instance_store_volumes  => 1
         },
@@ -3142,7 +3142,7 @@ module Fog
           :bits                    => 64,
           :cores                   => 64,
           :disk                    => 1900,
-          :ram                     => 274877906944,
+          :ram                     => 262144,
           :ebs_optimized_available => true,
           :instance_store_volumes  => 2
         },
@@ -3152,7 +3152,7 @@ module Fog
           :bits                    => 64,
           :cores                   => 4,
           :disk                    => 237,
-          :ram                     => 17179869184,
+          :ram                     => 16384,
           :ebs_optimized_available => true,
           :instance_store_volumes  => 1
         },
@@ -3162,7 +3162,7 @@ module Fog
           :bits                    => 64,
           :cores                   => 12,
           :disk                    => 0,
-          :ram                     => 34359738368,
+          :ram                     => 32768,
           :ebs_optimized_available => true,
           :instance_store_volumes  => 0
         },
@@ -3172,7 +3172,7 @@ module Fog
           :bits                    => 64,
           :cores                   => 96,
           :disk                    => 1024,
-          :ram                     => 1236950581248,
+          :ram                     => 1179648,
           :ebs_optimized_available => true,
           :instance_store_volumes  => 8
         },
@@ -3182,7 +3182,7 @@ module Fog
           :bits                    => 64,
           :cores                   => 64,
           :disk                    => 600,
-          :ram                     => 549755813888,
+          :ram                     => 524288,
           :ebs_optimized_available => true,
           :instance_store_volumes  => 4
         },
@@ -3192,7 +3192,7 @@ module Fog
           :bits                    => 64,
           :cores                   => 32,
           :disk                    => 600,
-          :ram                     => 274877906944,
+          :ram                     => 262144,
           :ebs_optimized_available => true,
           :instance_store_volumes  => 2
         },
@@ -3202,7 +3202,7 @@ module Fog
           :bits                    => 64,
           :cores                   => 96,
           :disk                    => 900,
-          :ram                     => 824633720832,
+          :ram                     => 786432,
           :ebs_optimized_available => true,
           :instance_store_volumes  => 4
         },
@@ -3212,7 +3212,7 @@ module Fog
           :bits                    => 64,
           :cores                   => 48,
           :disk                    => 0,
-          :ram                     => 412316860416,
+          :ram                     => 393216,
           :ebs_optimized_available => true,
           :instance_store_volumes  => 0
         },
@@ -3222,7 +3222,7 @@ module Fog
           :bits                    => 64,
           :cores                   => 8,
           :disk                    => 0,
-          :ram                     => 68719476736,
+          :ram                     => 65536,
           :ebs_optimized_available => true,
           :instance_store_volumes  => 0
         },
@@ -3232,7 +3232,7 @@ module Fog
           :bits                    => 64,
           :cores                   => 32,
           :disk                    => 0,
-          :ram                     => 274877906944,
+          :ram                     => 262144,
           :ebs_optimized_available => true,
           :instance_store_volumes  => 0
         },
@@ -3242,7 +3242,7 @@ module Fog
           :bits                    => 64,
           :cores                   => 2,
           :disk                    => 0,
-          :ram                     => 17179869184,
+          :ram                     => 16384,
           :ebs_optimized_available => true,
           :instance_store_volumes  => 0
         },
@@ -3252,7 +3252,7 @@ module Fog
           :bits                    => 64,
           :cores                   => 1,
           :disk                    => 0,
-          :ram                     => 8589934592,
+          :ram                     => 8192,
           :ebs_optimized_available => true,
           :instance_store_volumes  => 0
         },
@@ -3262,7 +3262,7 @@ module Fog
           :bits                    => 64,
           :cores                   => 64,
           :disk                    => 0,
-          :ram                     => 549755813888,
+          :ram                     => 524288,
           :ebs_optimized_available => true,
           :instance_store_volumes  => 0
         },
@@ -3272,7 +3272,7 @@ module Fog
           :bits                    => 64,
           :cores                   => 4,
           :disk                    => 0,
-          :ram                     => 34359738368,
+          :ram                     => 32768,
           :ebs_optimized_available => true,
           :instance_store_volumes  => 0
         },
@@ -3282,7 +3282,7 @@ module Fog
           :bits                    => 64,
           :cores                   => 4,
           :disk                    => 1425,
-          :ram                     => 412316860416,
+          :ram                     => 393216,
           :ebs_optimized_available => true,
           :instance_store_volumes  => 2
         },
@@ -3292,7 +3292,7 @@ module Fog
           :bits                    => 64,
           :cores                   => 64,
           :disk                    => 1900,
-          :ram                     => 549755813888,
+          :ram                     => 524288,
           :ebs_optimized_available => true,
           :instance_store_volumes  => 2
         },
@@ -3302,7 +3302,7 @@ module Fog
           :bits                    => 64,
           :cores                   => 8,
           :disk                    => 474,
-          :ram                     => 68719476736,
+          :ram                     => 65536,
           :ebs_optimized_available => true,
           :instance_store_volumes  => 1
         },
@@ -3312,7 +3312,7 @@ module Fog
           :bits                    => 64,
           :cores                   => 16,
           :disk                    => 950,
-          :ram                     => 137438953472,
+          :ram                     => 131072,
           :ebs_optimized_available => true,
           :instance_store_volumes  => 1
         },
@@ -3322,7 +3322,7 @@ module Fog
           :bits                    => 64,
           :cores                   => 32,
           :disk                    => 1900,
-          :ram                     => 274877906944,
+          :ram                     => 262144,
           :ebs_optimized_available => true,
           :instance_store_volumes  => 1
         },
@@ -3332,7 +3332,7 @@ module Fog
           :bits                    => 64,
           :cores                   => 2,
           :disk                    => 118,
-          :ram                     => 17179869184,
+          :ram                     => 16384,
           :ebs_optimized_available => true,
           :instance_store_volumes  => 1
         },
@@ -3342,7 +3342,7 @@ module Fog
           :bits                    => 64,
           :cores                   => 1,
           :disk                    => 59,
-          :ram                     => 8589934592,
+          :ram                     => 8192,
           :ebs_optimized_available => true,
           :instance_store_volumes  => 1
         },
@@ -3352,7 +3352,7 @@ module Fog
           :bits                    => 64,
           :cores                   => 64,
           :disk                    => 1900,
-          :ram                     => 549755813888,
+          :ram                     => 524288,
           :ebs_optimized_available => true,
           :instance_store_volumes  => 2
         },
@@ -3362,7 +3362,7 @@ module Fog
           :bits                    => 64,
           :cores                   => 4,
           :disk                    => 237,
-          :ram                     => 34359738368,
+          :ram                     => 32768,
           :ebs_optimized_available => true,
           :instance_store_volumes  => 1
         },
@@ -3372,7 +3372,7 @@ module Fog
           :bits                    => 64,
           :cores                   => 8,
           :disk                    => 0,
-          :ram                     => 34359738368,
+          :ram                     => 32768,
           :ebs_optimized_available => true,
           :instance_store_volumes  => 0
         },
@@ -3382,7 +3382,7 @@ module Fog
           :bits                    => 64,
           :cores                   => 2,
           :disk                    => 0,
-          :ram                     => 8589934592,
+          :ram                     => 8192,
           :ebs_optimized_available => true,
           :instance_store_volumes  => 0
         },
@@ -3392,7 +3392,7 @@ module Fog
           :bits                    => 64,
           :cores                   => 2,
           :disk                    => 0,
-          :ram                     => 4294967296,
+          :ram                     => 4096,
           :ebs_optimized_available => true,
           :instance_store_volumes  => 0
         },
@@ -3402,7 +3402,7 @@ module Fog
           :bits                    => 64,
           :cores                   => 2,
           :disk                    => 0,
-          :ram                     => 1073741824,
+          :ram                     => 1024,
           :ebs_optimized_available => true,
           :instance_store_volumes  => 0
         },
@@ -3412,7 +3412,7 @@ module Fog
           :bits                    => 64,
           :cores                   => 2,
           :disk                    => 0,
-          :ram                     => 536870912,
+          :ram                     => 512,
           :ebs_optimized_available => true,
           :instance_store_volumes  => 0
         },
@@ -3422,7 +3422,7 @@ module Fog
           :bits                    => 64,
           :cores                   => 2,
           :disk                    => 0,
-          :ram                     => 2147483648,
+          :ram                     => 2048,
           :ebs_optimized_available => true,
           :instance_store_volumes  => 0
         },
@@ -3432,7 +3432,7 @@ module Fog
           :bits                    => 64,
           :cores                   => 4,
           :disk                    => 0,
-          :ram                     => 17179869184,
+          :ram                     => 16384,
           :ebs_optimized_available => true,
           :instance_store_volumes  => 0
         },
@@ -3442,7 +3442,7 @@ module Fog
           :bits                    => 64,
           :cores                   => 48,
           :disk                    => 1425,
-          :ram                     => 824633720832,
+          :ram                     => 786432,
           :ebs_optimized_available => true,
           :instance_store_volumes  => 2
         },
@@ -3452,7 +3452,7 @@ module Fog
           :bits                    => 64,
           :cores                   => 64,
           :disk                    => 1900,
-          :ram                     => 1099511627776,
+          :ram                     => 1048576,
           :ebs_optimized_available => true,
           :instance_store_volumes  => 2
         },
@@ -3462,7 +3462,7 @@ module Fog
           :bits                    => 64,
           :cores                   => 8,
           :disk                    => 475,
-          :ram                     => 137438953472,
+          :ram                     => 131072,
           :ebs_optimized_available => true,
           :instance_store_volumes  => 1
         },
@@ -3472,7 +3472,7 @@ module Fog
           :bits                    => 64,
           :cores                   => 16,
           :disk                    => 950,
-          :ram                     => 274877906944,
+          :ram                     => 262144,
           :ebs_optimized_available => true,
           :instance_store_volumes  => 1
         },
@@ -3482,7 +3482,7 @@ module Fog
           :bits                    => 64,
           :cores                   => 32,
           :disk                    => 1900,
-          :ram                     => 549755813888,
+          :ram                     => 524288,
           :ebs_optimized_available => true,
           :instance_store_volumes  => 1
         },
@@ -3492,7 +3492,7 @@ module Fog
           :bits                    => 64,
           :cores                   => 2,
           :disk                    => 237,
-          :ram                     => 34359738368,
+          :ram                     => 32768,
           :ebs_optimized_available => true,
           :instance_store_volumes  => 1
         },
@@ -3502,7 +3502,7 @@ module Fog
           :bits                    => 64,
           :cores                   => 1,
           :disk                    => 59,
-          :ram                     => 17179869184,
+          :ram                     => 16384,
           :ebs_optimized_available => true,
           :instance_store_volumes  => 1
         },
@@ -3512,7 +3512,7 @@ module Fog
           :bits                    => 64,
           :cores                   => 64,
           :disk                    => 1900,
-          :ram                     => 1099511627776,
+          :ram                     => 1048576,
           :ebs_optimized_available => true,
           :instance_store_volumes  => 2
         },
@@ -3522,7 +3522,7 @@ module Fog
           :bits                    => 64,
           :cores                   => 4,
           :disk                    => 237,
-          :ram                     => 68719476736,
+          :ram                     => 65536,
           :ebs_optimized_available => true,
           :instance_store_volumes  => 1
         },
@@ -3532,7 +3532,7 @@ module Fog
           :bits                    => 64,
           :cores                   => 48,
           :disk                    => 1000,
-          :ram                     => 206158430208,
+          :ram                     => 196608,
           :ebs_optimized_available => true,
           :instance_store_volumes  => 336
         },
@@ -3542,7 +3542,7 @@ module Fog
           :bits                    => 64,
           :cores                   => 32,
           :disk                    => 1000,
-          :ram                     => 137438953472,
+          :ram                     => 131072,
           :ebs_optimized_available => true,
           :instance_store_volumes  => 224
         },
@@ -3552,7 +3552,7 @@ module Fog
           :bits                    => 64,
           :cores                   => 24,
           :disk                    => 1000,
-          :ram                     => 103079215104,
+          :ram                     => 98304,
           :ebs_optimized_available => true,
           :instance_store_volumes  => 168
         },
@@ -3562,7 +3562,7 @@ module Fog
           :bits                    => 64,
           :cores                   => 16,
           :disk                    => 1000,
-          :ram                     => 68719476736,
+          :ram                     => 65536,
           :ebs_optimized_available => true,
           :instance_store_volumes  => 112
         },
@@ -3572,7 +3572,7 @@ module Fog
           :bits                    => 64,
           :cores                   => 8,
           :disk                    => 1000,
-          :ram                     => 34359738368,
+          :ram                     => 32768,
           :ebs_optimized_available => true,
           :instance_store_volumes  => 56
         },
@@ -3582,7 +3582,7 @@ module Fog
           :bits                    => 64,
           :cores                   => 4,
           :disk                    => 1000,
-          :ram                     => 17179869184,
+          :ram                     => 16384,
           :ebs_optimized_available => true,
           :instance_store_volumes  => 28
         },
@@ -3592,7 +3592,7 @@ module Fog
           :bits                    => 64,
           :cores                   => 4,
           :disk                    => 1000,
-          :ram                     => 34359738368,
+          :ram                     => 32768,
           :ebs_optimized_available => true,
           :instance_store_volumes  => 6
         },
@@ -3602,7 +3602,7 @@ module Fog
           :bits                    => 64,
           :cores                   => 32,
           :disk                    => 1000,
-          :ram                     => 274877906944,
+          :ram                     => 262144,
           :ebs_optimized_available => true,
           :instance_store_volumes  => 48
         },
@@ -3612,7 +3612,7 @@ module Fog
           :bits                    => 64,
           :cores                   => 16,
           :disk                    => 1000,
-          :ram                     => 137438953472,
+          :ram                     => 131072,
           :ebs_optimized_available => true,
           :instance_store_volumes  => 24
         },
@@ -3622,7 +3622,7 @@ module Fog
           :bits                    => 64,
           :cores                   => 8,
           :disk                    => 1000,
-          :ram                     => 68719476736,
+          :ram                     => 65536,
           :ebs_optimized_available => true,
           :instance_store_volumes  => 12
         },
@@ -3632,7 +3632,7 @@ module Fog
           :bits                    => 64,
           :cores                   => 64,
           :disk                    => 0,
-          :ram                     => 137438953472,
+          :ram                     => 131072,
           :ebs_optimized_available => true,
           :instance_store_volumes  => 0
         },
@@ -3642,7 +3642,7 @@ module Fog
           :bits                    => 64,
           :cores                   => 48,
           :disk                    => 0,
-          :ram                     => 103079215104,
+          :ram                     => 98304,
           :ebs_optimized_available => true,
           :instance_store_volumes  => 0
         },
@@ -3652,7 +3652,7 @@ module Fog
           :bits                    => 64,
           :cores                   => 32,
           :disk                    => 0,
-          :ram                     => 68719476736,
+          :ram                     => 65536,
           :ebs_optimized_available => true,
           :instance_store_volumes  => 0
         },
@@ -3662,7 +3662,7 @@ module Fog
           :bits                    => 64,
           :cores                   => 16,
           :disk                    => 0,
-          :ram                     => 34359738368,
+          :ram                     => 32768,
           :ebs_optimized_available => true,
           :instance_store_volumes  => 0
         },
@@ -3672,7 +3672,7 @@ module Fog
           :bits                    => 64,
           :cores                   => 8,
           :disk                    => 0,
-          :ram                     => 17179869184,
+          :ram                     => 16384,
           :ebs_optimized_available => true,
           :instance_store_volumes  => 0
         },
@@ -3682,7 +3682,7 @@ module Fog
           :bits                    => 64,
           :cores                   => 4,
           :disk                    => 0,
-          :ram                     => 8589934592,
+          :ram                     => 8192,
           :ebs_optimized_available => true,
           :instance_store_volumes  => 0
         },
@@ -3692,7 +3692,7 @@ module Fog
           :bits                    => 64,
           :cores                   => 2,
           :disk                    => 0,
-          :ram                     => 4294967296,
+          :ram                     => 4096,
           :ebs_optimized_available => true,
           :instance_store_volumes  => 0
         },
@@ -3702,7 +3702,7 @@ module Fog
           :bits                    => 64,
           :cores                   => 1,
           :disk                    => 0,
-          :ram                     => 2147483648,
+          :ram                     => 2048,
           :ebs_optimized_available => true,
           :instance_store_volumes  => 0
         },
@@ -3712,7 +3712,7 @@ module Fog
           :bits                    => 64,
           :cores                   => 1,
           :disk                    => 1,
-          :ram                     => 2147483648,
+          :ram                     => 2048,
           :ebs_optimized_available => true,
           :instance_store_volumes  => 59
         },
@@ -3722,7 +3722,7 @@ module Fog
           :bits                    => 64,
           :cores                   => 2,
           :disk                    => 1,
-          :ram                     => 4294967296,
+          :ram                     => 4096,
           :ebs_optimized_available => true,
           :instance_store_volumes  => 118
         },
@@ -3732,7 +3732,7 @@ module Fog
           :bits                    => 64,
           :cores                   => 4,
           :disk                    => 0,
-          :ram                     => 8589934592,
+          :ram                     => 8192,
           :ebs_optimized_available => true,
           :instance_store_volumes  => 237
         },
@@ -3742,7 +3742,7 @@ module Fog
           :bits                    => 64,
           :cores                   => 8,
           :disk                    => 1,
-          :ram                     => 17179869184,
+          :ram                     => 16384,
           :ebs_optimized_available => true,
           :instance_store_volumes  => 474
         },
@@ -3752,7 +3752,7 @@ module Fog
           :bits                    => 64,
           :cores                   => 16,
           :disk                    => 950,
-          :ram                     => 34359738368,
+          :ram                     => 32768,
           :ebs_optimized_available => true,
           :instance_store_volumes  => 237
         },
@@ -3762,7 +3762,7 @@ module Fog
           :bits                    => 64,
           :cores                   => 32,
           :disk                    => 1900,
-          :ram                     => 68719476736,
+          :ram                     => 65536,
           :ebs_optimized_available => true,
           :instance_store_volumes  => 1
         },
@@ -3772,7 +3772,7 @@ module Fog
           :bits                    => 64,
           :cores                   => 48,
           :disk                    => 2,
-          :ram                     => 103079215104,
+          :ram                     => 98304,
           :ebs_optimized_available => true,
           :instance_store_volumes  => 1425
         },
@@ -3782,7 +3782,7 @@ module Fog
           :bits                    => 64,
           :cores                   => 64,
           :disk                    => 2,
-          :ram                     => 137438953472,
+          :ram                     => 131072,
           :ebs_optimized_available => true,
           :instance_store_volumes  => 1900
         },
@@ -3792,7 +3792,7 @@ module Fog
           :bits                    => 64,
           :cores                   => 64,
           :disk                    => 2,
-          :ram                     => 137438953472,
+          :ram                     => 131072,
           :ebs_optimized_available => true,
           :instance_store_volumes  => 1900
         },
@@ -3802,7 +3802,7 @@ module Fog
           :bits                    => 64,
           :cores                   => 64,
           :disk                    => 0,
-          :ram                     => 137438953472,
+          :ram                     => 131072,
           :ebs_optimized_available => true,
           :instance_store_volumes  => 0
         },
@@ -3812,7 +3812,7 @@ module Fog
           :bits                    => 64,
           :cores                   => 32,
           :disk                    => 0,
-          :ram                     => 68719476736,
+          :ram                     => 65536,
           :ebs_optimized_available => true,
           :instance_store_volumes  => 0
         },
@@ -3822,7 +3822,7 @@ module Fog
           :bits                    => 64,
           :cores                   => 16,
           :disk                    => 0,
-          :ram                     => 34359738368,
+          :ram                     => 32768,
           :ebs_optimized_available => true,
           :instance_store_volumes  => 0
         },
@@ -3832,7 +3832,7 @@ module Fog
           :bits                    => 64,
           :cores                   => 8,
           :disk                    => 0,
-          :ram                     => 17179869184,
+          :ram                     => 16384,
           :ebs_optimized_available => true,
           :instance_store_volumes  => 0
         },
@@ -3842,7 +3842,7 @@ module Fog
           :bits                    => 64,
           :cores                   => 2,
           :disk                    => 0,
-          :ram                     => 4294967296,
+          :ram                     => 4096,
           :ebs_optimized_available => true,
           :instance_store_volumes  => 0
         },
@@ -3852,7 +3852,7 @@ module Fog
           :bits                    => 64,
           :cores                   => 1,
           :disk                    => 0,
-          :ram                     => 2147483648,
+          :ram                     => 2048,
           :ebs_optimized_available => true,
           :instance_store_volumes  => 0
         },
@@ -3862,7 +3862,7 @@ module Fog
           :bits                    => 64,
           :cores                   => 4,
           :disk                    => 0,
-          :ram                     => 8589934592,
+          :ram                     => 8192,
           :ebs_optimized_available => true,
           :instance_store_volumes  => 0
         },
@@ -3872,7 +3872,7 @@ module Fog
           :bits                    => 64,
           :cores                   => 48,
           :disk                    => 0,
-          :ram                     => 103079215104,
+          :ram                     => 98304,
           :ebs_optimized_available => true,
           :instance_store_volumes  => 0
         },
@@ -3882,7 +3882,7 @@ module Fog
           :bits                    => 64,
           :cores                   => 64,
           :disk                    => 0,
-          :ram                     => 137438953472,
+          :ram                     => 131072,
           :ebs_optimized_available => true,
           :instance_store_volumes  => 0
         },
@@ -3892,7 +3892,7 @@ module Fog
           :bits                    => 64,
           :cores                   => 32,
           :disk                    => 600,
-          :ram                     => 68719476736,
+          :ram                     => 65536,
           :ebs_optimized_available => true,
           :instance_store_volumes  => 2
         },
@@ -3902,7 +3902,7 @@ module Fog
           :bits                    => 64,
           :cores                   => 16,
           :disk                    => 300,
-          :ram                     => 34359738368,
+          :ram                     => 32768,
           :ebs_optimized_available => true,
           :instance_store_volumes  => 2
         },
@@ -3912,7 +3912,7 @@ module Fog
           :bits                    => 64,
           :cores                   => 8,
           :disk                    => 300,
-          :ram                     => 17179869184,
+          :ram                     => 16384,
           :ebs_optimized_available => true,
           :instance_store_volumes  => 1
         },
@@ -3922,7 +3922,7 @@ module Fog
           :bits                    => 64,
           :cores                   => 4,
           :disk                    => 150,
-          :ram                     => 8589934592,
+          :ram                     => 8192,
           :ebs_optimized_available => true,
           :instance_store_volumes  => 1
         },
@@ -3932,7 +3932,7 @@ module Fog
           :bits                    => 64,
           :cores                   => 96,
           :disk                    => 1900,
-          :ram                     => 206158430208,
+          :ram                     => 196608,
           :ebs_optimized_available => true,
           :instance_store_volumes  => 2
         },
@@ -3942,7 +3942,7 @@ module Fog
           :bits                    => 64,
           :cores                   => 48,
           :disk                    => 900,
-          :ram                     => 103079215104,
+          :ram                     => 98304,
           :ebs_optimized_available => true,
           :instance_store_volumes  => 2
         },
@@ -3952,7 +3952,7 @@ module Fog
           :bits                    => 64,
           :cores                   => 2,
           :disk                    => 75,
-          :ram                     => 4294967296,
+          :ram                     => 4096,
           :ebs_optimized_available => true,
           :instance_store_volumes  => 1
         }
